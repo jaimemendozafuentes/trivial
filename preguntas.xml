@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preguntas>
+	<pregunta>
+		<enunciado>¿En que equipo no ha jugado CR 7?</enunciado>
+		<resp1>Barça</resp1>
+		<resp2>Real Llorones</resp2>
+		<resp3>Manchester</resp3>
+		<correcta>1</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es el elemento químico cuyo símbolo es Pt?</enunciado>
+		<resp1>Paladio</resp1>
+		<resp2>Platino</resp2>
+		<resp3>Plomo</resp3>
+		<correcta>2</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién esculpió "La Piedad"?</enunciado>
+		<resp1>Miguel Ángel</resp1>
+		<resp2>Nerón</resp2>
+		<resp3>Geppeto</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Dónde se encuentra situado el Cabo de Gata?</enunciado>
+		<resp1>Huelva</resp1>
+		<resp2>Granada</resp2>
+		<resp3>Almeria</resp3>
+		<correcta>3</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿A qué período pertenece Benjamin Franklin?</enunciado>
+		<resp1>Siglo de Oro</resp1>
+		<resp2>Generación del 27</resp2>
+		<resp3>Siglo de luces</resp3>
+		<correcta>3</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo se llamaban los poetas cantautores de la Edad Media?</enunciado>
+		<resp1>Trovador</resp1>
+		<resp2>Juglar</resp2>
+		<resp3>Cantante</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo se llama el marsupial que muere por exceso de sexo?</enunciado>
+		<resp1>Antechinus de cola negra</resp1>
+		<resp2>El ratón australiano</resp2>
+		<resp3>El demonio de tazmania</resp3>
+		<correcta>1</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál fue el verdadero nombre de Marilyn Monroe?</enunciado>
+		<resp1>Jenny Nicholson</resp1>
+		<resp2>Norma Jean Baker</resp2>
+		<resp3>Anna White</resp3>
+		<correcta>2</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál el el diámetro oficial de una canasta de basquetbol?</enunciado>
+		<resp1>48,3 cm</resp1>
+		<resp2>50 cm</resp2>
+		<resp3>45,7 cm</resp3>
+		<correcta>3</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cual el volcán más alto del mundo desde el centro de la tierra?</enunciado>
+		<resp1>El Everest</resp1>
+		<resp2>El Chimborazo</resp2>
+		<resp3>Nevado Ojos del Salado</resp3>
+		<correcta>2</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién descubrió el rio Amazonas?</enunciado>
+		<resp1>Sebastián de Benalcazar</resp1>
+		<resp2>Tarzan</resp2>
+		<resp3>Francisco de Orellana</resp3>
+		<correcta>3</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué famosa novela comienza con la frase: "Muchos años después, frente al pelotón de fusilamiento...?</enunciado>
+		<resp1>La identidad</resp1>
+		<resp2>Cien años de soledad</resp2>
+		<resp3>El alquimista</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es el mayor depredador terrestre actual?</enunciado>
+		<resp1>León</resp1>
+		<resp2>Oso polar</resp2>
+		<resp3>Tigre de Bengala</resp3>
+		<correcta>2</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué año se publicó el primer comic de Superman?</enunciado>
+		<resp1>1.972</resp1>
+		<resp2>1.953</resp2>
+		<resp3>1.938</resp3>
+		<correcta>3</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuántas medallas de oro ganó Jesse Owens en los Juegos Olímpicos de Berlín de 1.936?</enunciado>
+		<resp1>4</resp1>
+		<resp2>2</resp2>
+		<resp3>6</resp3>
+		<correcta>1</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo era conocida históricamente la ciudad de Estambul?</enunciado>
+		<resp1>Rodas</resp1>
+		<resp2>Alejandría</resp2>
+		<resp3>Constantinopla</resp3>
+		<correcta>3</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué año comenzó la Primera Guerra Mundial?</enunciado>
+		<resp1>1.914</resp1>
+		<resp2>1.915</resp2>
+		<resp3>1.916</resp3>
+		<correcta>1</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué novela está basada la película "Blade Runner"?</enunciado>
+		<resp1>El Corredor del Filo</resp1>
+		<resp2>La Rebelión de los Androides</resp2>
+		<resp3>¿Sueñan los androides con ovejas eléctricas?</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+    <enunciado>¿Cómo se llama a la ciencia que estudia los fósiles?</enunciado>
+    <resp1>Antropología</resp1>
+    <resp2>Paleontología</resp2>
+    <resp3>Cienciología</resp3>
+    <correcta>2</correcta>
+    <tipologia>ciencias naturales</tipologia>
+  </pregunta>
+  <pregunta>
+    <enunciado>¿Cuál es la discográfica propiedad de Led Zeppelin?</enunciado>
+    <resp1>Polygram</resp1>
+    <resp2>BMG Music</resp2>
+    <resp3>Atlantic</resp3>
+    <correcta>3</correcta>
+    <tipologia>espectáculos</tipologia>
+  </pregunta>
+  <pregunta>
+    <enunciado>¿Cuál es el máximo goleador de los mundiales de fútbol?</enunciado>
+    <resp1>Miroslav Klose</resp1>
+    <resp2>Ronaldo</resp2>
+    <resp3>Pelé</resp3>
+    <correcta>1</correcta>
+    <tipologia>deporte</tipologia>
+  </pregunta>
+  <pregunta>
+    <enunciado>¿Cuál es la capital de Dinamarca?</enunciado>
+    <resp1>Helsinki</resp1>
+    <resp2>Copenhague</resp2>
+    <resp3>Oslo</resp3>
+    <correcta>2</correcta>
+    <tipologia>geografía</tipologia>
+  </pregunta>
+  <pregunta>
+    <enunciado>¿Quien derogó la ley seca en Estados Unidos?</enunciado>
+    <resp1>John D. Rockefeller</resp1>
+    <resp2>Franklin Roosevelt</resp2>
+    <resp3>Andrew Volstead</resp3>
+    <correcta>2</correcta>
+    <tipologia>historia</tipologia>
+  </pregunta>
+  <pregunta>
+    <enunciado>¿Quien es el escritor de la novela En las montañas de la locura?</enunciado>
+    <resp1>H. P. Lovecraft</resp1>
+    <resp2>Edgar Allan Poe</resp2>
+    <resp3>Ray Bradbury</resp3>
+    <correcta>1</correcta>
+    <tipologia>arte y literatura</tipologia>
+  </pregunta>
+	<pregunta>
+		<enunciado>Le regaló a su musa el castillo de Pubol</enunciado>
+		<resp1>Picasso</resp1>
+		<resp2>Dalí</resp2>
+		<resp3>Miró</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Primera civilación de América</enunciado>
+		<resp1>Olmeca</resp1>
+		<resp2>Maya</resp2>
+		<resp3>Caral</resp3>
+		<correcta>3</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>El río más largo del mundo</enunciado>
+		<resp1>Nilo</resp1>
+		<resp2>Amazonas</resp2>
+		<resp3>Misisipi</resp3>
+		<correcta>2</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Autor de "Cinco Esquinas"</enunciado>
+		<resp1>Gabriel García Marquez</resp1>
+		<resp2>Mario Vargas Llosa</resp2>
+		<resp3>Arturo Pérez Reverte</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Dijo: "Todo acto o voz genial viene del pueblo y va hacia él"</enunciado>
+		<resp1>Bob Dylan</resp1>
+		<resp2>César Vallejo</resp2>
+		<resp3>Mario Vargas Llosa</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>La fibra animal más fina del mundo</enunciado>
+		<resp1>alpaca</resp1>
+		<resp2>mohair</resp2>
+		<resp3>vicuña</resp3>
+		<correcta>3</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién es el máximo goleador catalán de la historia?</enunciado>
+		<resp1>Raúl Tamudo</resp1>
+		<resp2>Pep Guardiola</resp2>
+		<resp3>Roger García</resp3>
+		<correcta>1</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué año se celebró la primera Exposición Universal de Barcelona?</enunciado>
+		<resp1>1992</resp1>
+		<resp2>1888</resp2>
+		<resp3>1914</resp3>
+		<correcta>2</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo se llamaba el caballo de Don Quijote?</enunciado>
+		<resp1>Rocinante</resp1>
+		<resp2>Babieca</resp2>
+		<resp3>Dulcinea</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién canta "marinero de luces"?</enunciado>
+		<resp1>Rocio Jurado</resp1>
+		<resp2>Sara Montiel</resp2>
+		<resp3>Isabel Pantoja</resp3>
+		<correcta>3</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es el río más largo de Europa?</enunciado>
+		<resp1>Danubio</resp1>
+		<resp2>Volga</resp2>
+		<resp3>Don</resp3>
+		<correcta>2</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es la principal función de los globulos rojos?</enunciado>
+		<resp1>Combatir enfermedades</resp1>
+		<resp2>Coagular la sangre</resp2>
+		<resp3>Llevar oxígeno</resp3>
+		<correcta>3</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Donde se registró la temperatura más alta en la Tierra?</enunciado>
+		<resp1>Valle de la Muerte</resp1>
+		<resp2>Desierto de Akatama</resp2>
+		<resp3>Desierto del Sahara</resp3>
+		<correcta>1</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Cual es la pelicula con mayor recaudación de todos los tiempos?</enunciado>
+		<resp1>Titanic</resp1>
+		<resp2>Avatar</resp2>
+		<resp3>El Rey León</resp3>
+		<correcta>2</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Qué conocido actor fue tres veces nadador olímpico?</enunciado>
+		<resp1>Chuck Norris</resp1>
+		<resp2>Bud Spencer</resp2>
+		<resp3>Tom Hanks</resp3>
+		<correcta>2</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>En cual de estos paises NO se encuentra la Amazonia?</enunciado>
+		<resp1>Ecuador</resp1>
+		<resp2>Guyana francesa</resp2>
+		<resp3>Paraguay</resp3>
+		<correcta>3</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Qué emperador romano nombró Cónsul a su caballo?</enunciado>
+		<resp1>Calígula</resp1>
+		<resp2>Nerón</resp2>
+		<resp3>Claudius</resp3>
+		<correcta>1</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Cuanto tiempo tardó Leonardo da Vinci en pintar La Gioconda?</enunciado>
+		<resp1>Cuatro años</resp1>
+		<resp2>Dos meses</resp2>
+		<resp3>Veinte años</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Las células reproductoras se dividen por...</enunciado>
+		<resp1>Metamorfosis</resp1>
+		<resp2>Meiosis</resp2>
+		<resp3>Mitosis</resp3>
+		<correcta>2</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué actor de 'Reservoir dogs' no actúa en 'Pulp fiction'?</enunciado>
+		<resp1>Actúan los tres</resp1>
+		<resp2>Tim Roth</resp2>
+		<resp3>Harvey Keitel</resp3>
+		<correcta>1</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo hizo el futbolista Pelé su gol número 1000?</enunciado>
+		<resp1>De cabeza</resp1>
+		<resp2>Corner Olímpico</resp2>
+		<resp3>De penal</resp3>
+		<correcta>3</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué continente se encuentra la Isla Jeju, una de las siete maravillas del mundo?</enunciado>
+		<resp1>América</resp1>
+		<resp2>África</resp2>
+		<resp3>Asia</resp3>
+		<correcta>3</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué país tuvo lugar el periodo conocido como Reacción de Termidor o Convención Termidoriana?</enunciado>
+		<resp1>Francia</resp1>
+		<resp2>Inglaterra</resp2>
+		<resp3>Holanda</resp3>
+		<correcta>1</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>King Diamond en su vida diaria, muestra su fascinación por la numerología, al punto de pasar esta obsesión a algunos de sus discos. ¿Qué mágico número se encuentra detrás de Abigail, su segundo álbum?</enunciado>
+		<resp1>5</resp1>
+		<resp2>2</resp2>
+		<resp3>9</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué fecha murió G. A. Bécquer?</enunciado>
+		<resp1>19 de mayo de 1780</resp1>
+		<resp2>22 de diciembre de 1870</resp2>
+		<resp3>20 de agosto de 1830</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué fecha lanzó Black Sabbath en Europa su primer LP?</enunciado>
+		<resp1>13 de febrero de 1970</resp1>
+		<resp2>21 de julio de 1971</resp2>
+		<resp3>18 de septiembre de 1970</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿De qué nacionalidad es el pintor Dominique Ingres?</enunciado>
+		<resp1>Holanda</resp1>
+		<resp2>Polonia</resp2>
+		<resp3>Francia</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cual es la capital de la República Checa?</enunciado>
+		<resp1>Bohemia Central</resp1>
+		<resp2>Moravia-Silesia</resp2>
+		<resp3>Praga</resp3>
+		<correcta>3</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En qué año se publicó el álbum de The Beatles Help!?</enunciado>
+		<resp1>1963	</resp1>
+		<resp2>1970</resp2>
+		<resp3>1965</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué se celebra el 19 de Noviembre?</enunciado>
+		<resp1>Nada</resp1>
+		<resp2>El Día Internacional de los Trabajadores</resp2>
+		<resp3>El Día Internacional del Hombre</resp3>
+		<correcta>3</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Dónde tiene origen el Amaretto?</enunciado>
+		<resp1>En Portugal</resp1>
+		<resp2>En Venezuela</resp2>
+		<resp3>En Italia</resp3>
+		<correcta>3</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué emperador bizantino se encuentra entre las diez mayores fortunas de la lista de la revista Forbes?</enunciado>
+		<resp1>Julio César</resp1>
+		<resp2>Basilio II</resp2>
+		<resp3>Carlomagno</resp3>
+		<correcta>2</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién inventó el GPS?</enunciado>
+		<resp1>El Departamento de Defensa de EE.UU.</resp1>
+		<resp2>El Servicio de Astronomía de Rusia</resp2>
+		<resp3>El Servicio de Astronomía de EE.UU.</resp3>
+		<correcta>1</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién escribió El Extranjero?</enunciado>
+		<resp1>Albert Camus</resp1>
+		<resp2>Santiago Segura</resp2>
+		<resp3>Jose Maria Lucas</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cual de las siguientes NO es una Isla Volcánica?</enunciado>
+		<resp1>Groenlandia</resp1>
+		<resp2>Islas Madeira</resp2>
+		<resp3>Islas Azores</resp3>
+		<correcta>1</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es el nombre completo de Beethoven?</enunciado>
+		<resp1>Antonio</resp1>
+		<resp2>Wolfgang Amadeus</resp2>
+		<resp3>Ludwing Van</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué empresa automovilistica introdujo por primera vez el Airbag de serie?</enunciado>
+		<resp1>Mercedes</resp1>
+		<resp2>Chrysler</resp2>
+		<resp3>BMW</resp3>
+		<correcta>2</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién escribió 'Hijos de la ira'?</enunciado>
+		<resp1>Miguel de Cervantes</resp1>
+		<resp2>Antonio Buero Vallejo</resp2>
+		<resp3>Dámaso Alonso</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Sobre que trata La Ilíada?</enunciado>
+		<resp1>Sobre la vida de Sócrates</resp1>
+		<resp2>Sobre la Guerra del Peloponeso</resp2>
+		<resp3>Sobre la Guerra de Troya</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo se llama la protagonista de 'La Regenta'?</enunciado>
+		<resp1>Ana Ozores</resp1>
+		<resp2>Jacinta</resp2>
+		<resp3>Enma</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién es Juan Manuel Fangio?</enunciado>
+		<resp1>El piloto ganador del primer Rally París-Dakar</resp1>
+		<resp2>El creador de las 24 horas de Le Mans</resp2>
+		<resp3>Un piloto de Fórmula 1 argentino que ha ganado el Campeonato del Mundo 5 veces</resp3>
+		<correcta>3</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién escribió 'El buscón'?</enunciado>
+		<resp1>Es anónimo</resp1>
+		<resp2>Quevedo</resp2>
+		<resp3>Góngora</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién escribió Los Viajes de Gulliver?</enunciado>
+		<resp1>Jonathan Swift</resp1>
+		<resp2>William Godwin</resp2>
+		<resp3>Thomas Paine</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿De qué estilo es la Catedral de Nuestra Señora de París?</enunciado>
+		<resp1>Gótico</resp1>
+		<resp2>Románico</resp2>
+		<resp3>Mudejar</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Dios del vino según la mitología griega ...</enunciado>
+		<resp1>Hefesto</resp1>
+		<resp2>Dioniso</resp2>
+		<resp3>Ares</resp3>
+		<correcta>2</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué personaje pertenece a la Iliada?</enunciado>
+		<resp1>Orestes</resp1>
+		<resp2>Aquiles</resp2>
+		<resp3>Séneca</resp3>
+		<correcta>2</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cual es la escala que mide la constitución de las heces?</enunciado>
+		<resp1>Escala de Bristol</resp1>
+		<resp2>Escala de Trump</resp2>
+		<resp3>Escala de Mark</resp3>
+		<correcta>1</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Cual fue la bomba atómica mas potente lanzada en el siglo XXI</enunciado>
+		<resp1>Bomba del Zar</resp1>
+		<resp2>"Little Boy"</resp2>
+		<resp3>"Fat Man"</resp3>
+		<correcta>1</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>Que grupo de lucha libre estaba formado por Rick Flair, Randy Orton, Triple H y Batista?</enunciado>
+		<resp1>New World Order</resp1>
+		<resp2>D-Generation X</resp2>
+		<resp3>Evolution</resp3>
+		<correcta>3</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Que luchador de la WWE fue el primer dos veces Hall of Famer?</enunciado>
+		<resp1>Rick Flair</resp1>
+		<resp2>Braum Strowman</resp2>
+		<resp3>John Cena</resp3>
+		<correcta>1</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿A que prendió fuego Ballotelli con fuegos artificiales?</enunciado>
+		<resp1>A su pelo</resp1>
+		<resp2>A un mantel</resp2>
+		<resp3>A su casa</resp3>
+		<correcta>3</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En que campo de futbol tiene una maldición el Futbol Club Barcelona?</enunciado>
+		<resp1>Anoeta</resp1>
+		<resp2>Mendizorroza</resp2>
+		<resp3>Riazor</resp3>
+		<correcta>1</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Que país no esta en el mar Caribe?</enunciado>
+		<resp1>Antigua y Barbuda</resp1>
+		<resp2>Santo Tomé y Príncipe</resp2>
+		<resp3>Trinidad y Tobago</resp3>
+		<correcta>2</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿En que isla esta situada Tokyo?</enunciado>
+		<resp1>Honshu</resp1>
+		<resp2>Hokkaido</resp2>
+		<resp3>Kyushu</resp3>
+		<correcta>1</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿A quien hizo senador el emperador Calígula del Imperio Romano?</enunciado>
+		<resp1>A su cuñado</resp1>
+		<resp2>A su caballo</resp2>
+		<resp3>A su esposa</resp3>
+		<correcta>2</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cual era el nombre del avión que lanzó la bomba atómica Little Boy en Hiroshima?</enunciado>
+		<resp1>Bock's Car</resp1>
+		<resp2>Enola Gay</resp2>
+		<resp3>Fifi</resp3>
+		<correcta>2</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cual es el nombre de los protagonistas de la saga de videojuegos "The Legend of Zelda"?</enunciado>
+		<resp1>Zelda</resp1>
+		<resp2>Epona</resp2>
+		<resp3>Link</resp3>
+		<correcta>3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Hasta que número no sabe contar Gabe Newell, director de la empresa de videojuegos Valve?</enunciado>
+		<resp1>3</resp1>
+		<resp2>5</resp2>
+		<resp3>2</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quien escribió la obra musical El Bolero, estrenada en la Ópera Garnier de Paris en 1928?</enunciado>
+		<resp1>Maurice Ravel</resp1>
+		<resp2>Giacomo Puccini</resp2>
+		<resp3>Johann Sebastian Bach</resp3>
+		<correcta>1</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuántos dedos tienen las zarigüeyas?</enunciado>
+		<resp1>Dos</resp1>
+		<resp2>Cinco</resp2>
+		<resp3>Cuatro</resp3>
+		<correcta>2</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué famoso actor de Hollywood dijo las siguiente frase?: Volveré... (I´ll be back)</enunciado>
+		<resp1>Mel Gibson en Arma Letal</resp1>
+		<resp2>Bruce Willis en Duro de Matar</resp2>
+		<resp3>Arnold Schwarzenegger en Terminator</resp3>
+		<correcta>3</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es el río más largo del mundo?</enunciado>
+		<resp1>Amazonas</resp1>
+		<resp2>Nilo</resp2>
+		<resp3>Mississippi</resp3>
+		<correcta>1</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Con cuantas bolas se juega al Billar Francés?</enunciado>
+		<resp1>Cinco</resp1>
+		<resp2>Tres</resp2>
+		<resp3>Siete</resp3>
+		<correcta>2</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Quién escribió El resplandor?</enunciado>
+		<resp1>Mario Vargas Llosa</resp1>
+		<resp2>Charles Bukowski</resp2>
+		<resp3>Stephen King</resp3>
+		<correcta> 3</correcta>
+		<tipologia>arte y literatura</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo se llama el robot alcohólico, fumador de cigarros, egoísta y ladrón de la serie Futurama?</enunciado>
+		<resp1>Leela</resp1>
+		<resp2>Bender</resp2>
+		<resp3>Bart</resp3>
+		<correcta>2</correcta>
+		<tipologia>espectáculos</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿ Cuál es el equipo de fútbol más antiguo de España?</enunciado>
+		<resp1>Fútbol Club Barcelona</resp1>
+		<resp2>Athletic Club</resp2>
+		<resp3>Real Club Recreativo de Huelva</resp3>
+		<correcta>3</correcta>
+		<tipologia>deporte</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuál es el símbolo del Wolframio en la tabla periódica?</enunciado>
+		<resp1>Wf</resp1>
+		<resp2>M</resp2>
+		<resp3>W</resp3>
+		<correcta>3</correcta>
+		<tipologia>ciencias naturales</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cuáles fueron las guerras que enfrentaron a las potencias de Roma y Cártago?</enunciado>
+		<resp1>Guerras Púnicas</resp1>
+		<resp2>Guerras Médicas</resp2>
+		<resp3>Guerra del Peloponeso</resp3>
+		<correcta>1</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Cómo se les llamó a las monumentales torres construidas por los sumerios?</enunciado>
+		<resp1>Pirámides</resp1>
+		<resp2>Menires</resp2>
+		<resp3>Zigurats</resp3>
+		<correcta>3</correcta>
+		<tipologia>historia</tipologia>
+	</pregunta>
+	<pregunta>
+		<enunciado>¿Qué ciudad es la capital de la República de Montenegro?</enunciado>
+		<resp1>Podgorica</resp1>
+		<resp2>Tallin</resp2>
+		<resp3>Zagreb</resp3>
+		<correcta>1</correcta>
+		<tipologia>geografía</tipologia>
+	</pregunta>
+</preguntas>
